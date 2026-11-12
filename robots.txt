@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/hayes-and-sons-roof-repair-manasquan/sitemap.xml
+Sitemap: https://local-business-guides.github.io/hayes-and-sons-roof-repair-manasquan/news-sitemap.xml
